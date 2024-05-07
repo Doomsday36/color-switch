@@ -1,5 +1,5 @@
 var canvas=document.querySelector("canvas");
-var c=canvas.getContext("2d");
+ar c=canvas.getContext("2d");
 canvas.width=innerWidth;
 canvas.height=innerHeight;
 var colorArray=["#FAE100","#900DFF","#FF0181","#32DBF0"];
